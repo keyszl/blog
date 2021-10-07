@@ -17,7 +17,7 @@ title: Database and Web Systems Student Blog
 email: keyszl@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I will make posts for my class, which is Database and Web Systems!
-baseurl: baseurl "/blog" # the subpath of your site, e.g. /blog
+baseurl: baseurl "/Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: I don't have a twitter
 github_username:  keyszl
