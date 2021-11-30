@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Here's some info about me!
+__Here's some quick info about me -__
 
 I am a sophomore majoring in Computer Science!
 

@@ -1,10 +1,10 @@
-# Hendrix College E-Sports
-
 We have several competitive teams under the Hendrix E-Sports program, such as:
 
-Rocket League
-Overwatch
-League of Legends
-Smash
+__Rocket League__
+__Overwatch__
+__League of Legends__
+__Smash__
 
 Meet our coach, Logan Horton!
+
+![insert esports coach here](image.jpg)
