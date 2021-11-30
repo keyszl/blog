@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2021-10-06 20:44:22 -0500
 categories: jekyll update
+author: Zoie Keys
 ---
 **The Blog Experience:**
 
