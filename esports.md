@@ -1,3 +1,5 @@
+#Hendrix College E-Sports
+
 We have several competitive teams under the Hendrix E-Sports program, such as:
 
 - __Rocket League__
